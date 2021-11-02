@@ -50,13 +50,21 @@ Step 4: Recon-ng
 Install the Recon module xssed.
 Set the source to demo.testfire.net.
 
+-![setsource](https://github.com/jlashay/Penetration-Testing-1/blob/main/PENxssed%20source4.PNG)
+
 Run the module.
 
+-![runmodule](https://github.com/jlashay/Penetration-Testing-1/blob/main/PENxssedrun4.PNG)
 
-Is Altoro Mutual vulnerable to XSS: Yes, it shows 1 new vulnerability found. 
+Is Altoro Mutual vulnerable to XSS:
+* Yes, it shows 1 new vulnerability found. 
+
+
+
 Step 5: Zenmap
 
 Your client has asked that you help identify any vulnerabilities with their file-sharing server. Using the Metasploitable machine to act as your client's server, complete the following:
+
 Command for Zenmap to run a service scan against the Metasploitable machine:
 
 * nmap -sV 192.168.0.10
@@ -66,7 +74,7 @@ Bonus command to output results into a new text file named zenmapscan.txt:
 
 * nmap -sV -oN zenmapscan.txt 192.168.0.10
 
-
+-![zenmap](https://github.com/jlashay/Penetration-Testing-1/blob/main/PENbonus%20zenmap5.PNG)
 
 
 Zenmap vulnerability script command:
