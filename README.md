@@ -1,5 +1,5 @@
 # Penetration-Testing-1
-Week 16 Homework Submission File: Penetration Testing 1
+
 
 
 Step 1: Google Dorking
